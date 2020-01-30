@@ -338,7 +338,7 @@ h1.main-caption {
 .enterprise-campaign {
     overflow-x: hidden; // Global page elements
     h1 {
-        font-family: 'URWGeometric-Semibold';
+        font-family: 'PoppinsLatin-Medium';
         .highlight {
             color: #4ad9d9;
         }
@@ -374,7 +374,7 @@ h1.main-caption {
         justify-content: center;
         h1 {
             color: #FFFFFF;
-            font-family: 'URWGeometric-ExtraBold';
+            font-family: 'PoppinsLatin-Bold';
             font-size: 5em;
             line-height: .9em;
             text-align: center;
@@ -423,7 +423,7 @@ h1.main-caption {
                 text-align: center;
                 h3 {
                     text-align: center;
-                    font-family: 'URWGeometric-Semibold';
+                    font-family: 'PoppinsLatin-Medium';
                     font-size: 1.5em;
                     text-transform: capitalize;
                 }
@@ -475,7 +475,7 @@ h1.main-caption {
         .plugin-link {
             text-align: center;
             a {
-                font-family: 'URWGeometric-Semibold';
+                font-family: 'PoppinsLatin-Medium';
                 align-items: center;
                 &:hover {
                     text-decoration: underline;
@@ -501,14 +501,14 @@ h1.main-caption {
             line-height: .9em;
         }
         h2 {
-            font-family: 'URWGeometric-Semibold';
+            font-family: 'PoppinsLatin-Medium';
             text-align: left;
         }
         p {
             text-align: left;
         }
         a {
-            font-family: 'URWGeometric-Semibold';
+            font-family: 'PoppinsLatin-Medium';
             &:hover {
                 text-decoration: underline;
             }
@@ -543,7 +543,7 @@ h1.main-caption {
                     padding: 20px;
                     border: #1c425c 8px solid;
                     .thanks-msg {
-                        font-family: 'URWGeometric-Semibold';
+                        font-family: 'PoppinsLatin-Medium';
                         font-size: 1.1em;
                         margin-bottom: 10px;
                         text-align: center;
@@ -591,13 +591,13 @@ h1.main-caption {
 .kubernetes {
     // Global page elements
     h1 {
-        font-family: 'URWGeometric-Semibold';
+        font-family: 'PoppinsLatin-Medium';
         @media(max-width: 491px) {
             font-size: 2em;
         }
     }
     h3 {
-        font-family: 'URWGeometric-Semibold';
+        font-family: 'PoppinsLatin-Medium';
     }
     p {
         line-height: 1.5em;
@@ -634,7 +634,7 @@ h1.main-caption {
             margin-bottom: 1em;
             h1 {
                 color: #FFFFFF;
-                font-family: 'URWGeometric-ExtraBold';
+                font-family: 'PoppinsLatin-Bold';
                 font-size: 5em;
                 line-height: .9em;
                 text-align: center;
@@ -927,7 +927,7 @@ h1.main-caption {
 
     // Global page elements
     h1 {
-        font-family: 'URWGeometric-Semibold';
+        font-family: 'PoppinsLatin-Medium';
         .highlight {
             color: #4ad9d9;
         }
@@ -966,7 +966,7 @@ h1.main-caption {
         justify-content: center;
         h1 {
             color: #FFFFFF;
-            font-family: 'URWGeometric-ExtraBold';
+            font-family: 'PoppinsLatin-Bold';
             font-size: 5em;
             line-height: 1em;
             text-align: center;
@@ -1151,7 +1151,7 @@ h1.main-caption {
         .plugin-link {
             text-align: center;
             a {
-                font-family: 'URWGeometric-Semibold';
+                font-family: 'PoppinsLatin-Medium';
                 align-items: center;
                 &:hover {
                     text-decoration: underline;
@@ -1181,14 +1181,14 @@ h1.main-caption {
             line-height: .9em;
         }
         h2 {
-            font-family: 'URWGeometric-Semibold';
+            font-family: 'PoppinsLatin-Medium';
             text-align: left;
         }
         p {
             text-align: left;
         }
         a {
-            font-family: 'URWGeometric-Semibold';
+            font-family: 'PoppinsLatin-Medium';
             &:hover {
                 text-decoration: underline;
             }
@@ -1223,7 +1223,7 @@ h1.main-caption {
                     padding: 20px;
                     border: #1c425c 8px solid;
                     .thanks-msg {
-                        font-family: 'URWGeometric-Semibold';
+                        font-family: 'PoppinsLatin-Medium';
                         font-size: 1.1em;
                         margin-bottom: 10px;
                         text-align: center;
@@ -1392,7 +1392,7 @@ h1.main-caption {
             margin: 0 1em 0 1em;
 
             span {
-                font-family: URWGeometric-ExtraBold;
+                font-family: PoppinsLatin-Bold;
             }
 
             @media (max-width: 991px) {
@@ -1589,7 +1589,7 @@ h1.main-caption {
             border: 2px solid #4ad9d9;
             border-radius: 0;
             color: #333;
-            font-family: 'URWGeometric-Semibold';
+            font-family: 'PoppinsLatin-Medium';
 
             &:hover,
             &:focus {
@@ -1682,7 +1682,7 @@ h1.main-caption {
             border: 2px solid #4ad9d9;
             border-radius: 0;
             color: #333;
-            font-family: 'URWGeometric-Semibold';
+            font-family: 'PoppinsLatin-Medium';
 
             &:hover,
             &:focus {

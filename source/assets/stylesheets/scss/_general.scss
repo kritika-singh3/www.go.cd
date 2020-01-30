@@ -1,5 +1,5 @@
 body {
-    font-family: 'URWGeometric-Medium', sans-serif;
+    font-family: 'PoppinsLatin-Regular', sans-serif;
     color: #555555;
     font-size: 16px;
     font-weight: 300;
@@ -20,7 +20,7 @@ body {
 p,
 dt,
 dd {
-    font-family: 'URWGeometric-Medium';
+    font-family: 'PoppinsLatin-Regular';
     font-size: 14px;
 
     @media (min-width: $screen-lg-desktop) {
@@ -30,7 +30,7 @@ dd {
 }
 
 h1 {
-    font-family: 'URWGeometric-Extrabold';
+    font-family: 'PoppinsLatin-Bold';
     color: $heading;
 }
 
@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'URWGeometric-Semibold';
+    font-family: 'PoppinsLatin-Medium';
     color: $heading;
 }
 
@@ -120,7 +120,7 @@ img {
     .caption {
         font-size: 16px;
         color: #FFFFFF;
-        font-family: URWGeometric-Medium;
+        font-family: PoppinsLatin-Regular;
         text-transform: uppercase;
         margin: 0;
 
@@ -368,9 +368,9 @@ $nav-active: #4AD9D9;
 }
 
 $brand-secondary: #4AD9D9;
-$default-font-normal-bold: 'URWGeometric-Semibold';
+$default-font-normal-bold: 'PoppinsLatin-Medium';
 $dark: #000;
-$default-font-extra-bold: 'URWGeometric-ExtraBold';
+$default-font-extra-bold: 'PoppinsLatin-Bold';
 
 .button-brand {
     background: $brand-secondary;

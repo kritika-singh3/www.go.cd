@@ -1,0 +1,29 @@
+// Import Poppins Latin font
+
+@font-face {
+	font-family: 'PoppinsLatin-Bold';
+	src: url('/assets/vendor/fonts/PoppinsLatin/PoppinsLatin-Bold.otf') format('opentype'),
+	url('/assets/vendor/fonts/PoppinsLatin/PoppinsLatin-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'PoppinsLatin-Medium';
+	src: url('/assets/vendor/fonts/PoppinsLatin/PoppinsLatin-Medium.otf') format('opentype'),
+	url('/assets/vendor/fonts/PoppinsLatin/PoppinsLatin-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'PoppinsLatin-Regular';
+	src: url('/assets/vendor/fonts/PoppinsLatin/PoppinsLatin-Regular.otf') format('opentype'),
+	url('/assets/vendor/fonts/PoppinsLatin/PoppinsLatin-Regular.ttf') format('truetype');
+}
+
+
+
+// My not use this font.
+
+@font-face {
+	font-family: 'PoppinsLatin-SemiBold';
+	src: url('/assets/vendor/fonts/PoppinsLatin/PoppinsLatin-SemiBold.otf') format('opentype'),
+	url('/assets/vendor/fonts/PoppinsLatin/PoppinsLatin-SemiBold.ttf') format('truetype');
+}

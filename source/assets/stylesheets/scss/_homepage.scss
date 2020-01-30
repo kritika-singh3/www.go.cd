@@ -18,17 +18,17 @@
     }
     h1 {
       color: hsla(0, 0, 100%, 1);
-      font-size: 68px;
+      font-size: 64px;
       width: 100%;
       text-align: center;
       padding-bottom: 20px;
       text-transform: uppercase;
-      font-family: URWGeometric-Heavy, Helvetica, sans-serif;
+      font-family: PoppinsLatin-Bold, Helvetica, sans-serif;
       @media (max-width: 1400px) {
         // font-size: 64px;
       }
       @media (max-width: 1198px) {
-        font-size: 64px;
+        font-size: 62px;
       }
       @media (max-width: 990px) {
         font-size: 10vw; // font-size: 68px;
@@ -53,7 +53,7 @@
       font-size: 36px;
       line-height: 100%;
       letter-spacing: .5px;
-      font-family: URWGeometric-SemiBold, Helvetica, sans-serif;
+      font-family: PoppinsLatin-Medium, Helvetica, sans-serif;
       padding-bottom: 1em;
       @media (max-width: 990px) {
         text-align: center;
@@ -71,7 +71,7 @@
       color: #94399e;
       text-transform: uppercase;
       font-size: 1.2em;
-      font-family: URWGeometric-ExtraBold, Helvetica, sans-serif;
+      font-family: PoppinsLatin-Bold, Helvetica, sans-serif;
       margin-bottom: 10px;
       &:hover {
         background-color: hsla(69, 65%, 60%, 1);
@@ -94,7 +94,7 @@
       border-radius: 2;
       color: hsla(0, 0, 100%, 1);
       font-size: 1.2em;
-      font-family: URWGeometric-ExtraBold, Helvetica, sans-serif;
+      font-family: PoppinsLatin-Bold, Helvetica, sans-serif;
       margin: 20px auto 4px auto;
       &:hover {
         background-color: hsla(69, 65%, 60%, 1);
@@ -114,7 +114,7 @@
       a {
         font-size: 14px;
         color: hsla(0, 0, 100%, 1);
-        font-family: URWGeometric-Medium, Helvetica, sans-serif;
+        font-family: PoppinsLatin-Regular, Helvetica, sans-serif;
         text-decoration: underline;
         &:hover {
           color: hsla(180, 65%, 57%, 1);
@@ -137,7 +137,7 @@
   margin: 0;
 
   span {
-    font-family: URWGeometric-ExtraBold;
+    font-family: PoppinsLatin-Bold;
     padding-left: 5px;
   }
 
@@ -402,7 +402,7 @@ $learn-more-cta-hover-bg: #6ee0e0;
   margin: 0px auto 20px auto;
   padding: 18px 0 18px 0;
   font-size: 18px;
-  font-family: URWGeometric-SemiBold;
+  font-family: PoppinsLatin-Medium;
   text-align: center;
   &:hover{
     color: $learn-more-cta;
